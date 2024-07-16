@@ -12,3 +12,4 @@ RM_PASSWORD = YOUR_PASSWORD_FOR_SSH_ON_LINUX
 ```
 
 To run the program you need Linux and using python3 main.py you will be prompted to enter the site you want to attack.
+You can also change the range, let’s say it’s not 2 times to attack, but 5
